@@ -1,0 +1,20 @@
+p#akapit1_wojciechowicz {
+    font-family: serif;
+    color: lightpink;
+    text-decoration: overline;
+    text-indent: 2cm;
+    line-height: 1cm;
+    word-spacing: 12px;
+    letter-spacing: 5ex;
+    text-align: right;
+}
+p#akapit2_wojciechowicz {
+    font-family: sans-serif;
+    color: lemonchiffon;
+    text-decoration: line-through;
+    text-indent: 25mm;
+    line-height: 15mm;
+    word-spacing: 10pt;
+    letter-spacing: 0.5cm;
+    text-align: center;
+}
